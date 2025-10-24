@@ -1,16 +1,16 @@
-Meta.DisplayName=Fivem txAdmin
+Meta.DisplayName=Fivem - txAdmin
 Meta.Description=txAdmin Server Manager for FiveM and RedM
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
 Meta.Arch=x86_64
-Meta.Author=Greelan
+Meta.Author=tortonight
 Meta.URL=https://txadmin.gg/
 Meta.DisplayImageSource=url:https://github.com/tabarra/txAdmin/blob/master/docs/banner.png?raw=true
 Meta.EndpointURIFormat=
 Meta.ConfigManifest=txadminconfig.json
 Meta.MetaConfigManifest=txadminmetaconfig.json
 Meta.ConfigRoot=txadmin.kvp
-Meta.MinAMPVersion=2.4.6.4
+Meta.MinAMPVersion=2.6.3.2
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
 Meta.DockerBaseReadOnly=False
